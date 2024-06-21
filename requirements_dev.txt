@@ -6,7 +6,6 @@ numpy
 ensure
 pytest
 
--e .
 
 # dev requirements -
 
